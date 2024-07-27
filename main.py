@@ -7,8 +7,8 @@ import smtplib
 import json
 import os
 
-my_email = "shobhitrajguru9903@gmail.com"
-password = "odthytakdqdmnuhz"
+my_email = "YOUR MAIL"
+password = "YOUR PASSWORD"
 
 # Dictionary to store available quantities of components if data.json file Not Found !
 component_availability = {
